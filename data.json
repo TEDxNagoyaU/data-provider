@@ -1,5 +1,17 @@
 {
-  "hoge": "https://www.youtube.com/embed/GLIhyHy3ORI?controls=0",
-  "fuga": "https://www.youtube.com/embed/GLIhyHy3ORI?controls=0",
-  "hogehoge": "https://www.youtube.com/embed/GLIhyHy3ORI?controls=0"
+  "youtube": {
+    "watch1" : "https:",
+    "watch2" : "https:",
+    "watch3" : "https:"
+  },
+  "zoom":{
+    "break1": {
+      "booth1" : "",
+      "booth2" : ""
+    },
+    "break2": {
+      "booth1" : "",
+      "booth2" : ""
+    }
+  }
 }
