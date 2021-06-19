@@ -1,17 +1,17 @@
 {
   "youtube": {
-    "watch1" : "https://www.youtube.com/embed/U-AecKG2kaI",
-    "watch2" : "https://www.youtube.com/embed/c7Eoa-yO_bw",
-    "watch3" : "https://www.youtube.com/embed/c7Eoa-yO_bw"
+    "production" : "https://www.youtube.com/embed/RasBMu84sQw",
+    "rehearsal" : "https://www.youtube.com/embed/QwdGMgGGPA4",
+    "check" : "hoge"
   },
   "zoom":{
     "break1": {
-      "booth1" : "https://us02web.zoom.us/j/87680427738?pwd=SVo4a2tUaEMwWWIxVWRUVEx2d0Fudz09",
-      "booth2" : ""
+      "booth1" : "https://nanzan.zoom.us/j/84047390442?pwd=SFV2dVVjY3pZK1d0OUdUN0NPOE5TUT09",
+      "booth2" : "https://zoom.us/j/91056763428?pwd=aDJwKy9vRFN5K01ocjhiZEVSVEJvZz09"
     },
     "break2": {
-      "booth1" : "",
-      "booth2" : ""
+      "booth1" : "https://nanzan.zoom.us/j/88250607539?pwd=YlBVWGMvUXczSThHOHZUa3IwUFgyUT09",
+      "booth2" : "https://zoom.us/j/94131557195?pwd=MytxbzQ5Znp5NmJrT1p1bXlNRGQ3Zz09#success"
     }
   }
 }
