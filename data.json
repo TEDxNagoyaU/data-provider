@@ -1,7 +1,7 @@
 {
   "youtube": {
     "production" : "https://www.youtube.com/embed/RasBMu84sQw",
-    "rehearsal" : "https://www.youtube.com/embed/Zhi_TNE220I",
+    "rehearsal" : "https://www.youtube.com/embed/27uMr1qFMDQ?controls=0",
     "check" : "hoge"
   },
   "zoom":{
